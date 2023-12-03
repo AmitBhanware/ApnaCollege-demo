@@ -1,4 +1,4 @@
 # ApnaCollege-demo
 My first repository
 <br>
-Author - Amit Bhanware
+Author - Amit Bhanware (Apna College)
